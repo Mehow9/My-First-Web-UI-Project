@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Poprawna rejestracja konta pocztowego na portalu wp.pl</description>
+   <name>Rejestracja poprawna</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cc2a408-d085-467d-94a9-608dab27918a</testCaseGuid>
+   <variable>
+      <defaultValue>'jankowalski._1234'</defaultValue>
+      <description></description>
+      <id>7e601a62-c363-42ad-a9b6-ce76fc60d766</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
